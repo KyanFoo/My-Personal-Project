@@ -58,6 +58,8 @@ Material:
     m_Ints: []
     m_Floats:
     - _Edge_Width: 0.02
+    - _Emission_Power: 1
+    - _IsEmissionTexture: 0
     - _IsTextureOn: 0
     - _Noise_Scale: 30
     - _QueueControl: 0
@@ -67,7 +69,7 @@ Material:
     - _Threshold: 0.326
     m_Colors:
     - _Base_Color: {r: 0.67295593, g: 0.67295593, b: 0.67295593, a: 0}
-    - _Edge_Color: {r: 2.27141, g: 0, b: 4, a: 0}
+    - _Edge_Color: {r: 1.7013307, g: 0, b: 2.9960785, a: 0}
     - _Texture_Offset: {r: 1, g: 1, b: 0, a: 0}
     - _Threshold_Control: {r: 0, g: 1, b: 0, a: 0}
     - _Tilling_Offset: {r: 1, g: 1, b: 0, a: 0}
