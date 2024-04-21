@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Final_Dissolve_MAT
-  m_Shader: {fileID: -6465566751694194690, guid: 0762683da73f18a4482b630e3e18a4f2, type: 3}
+  m_Name: Final_DissolveX_MAT
+  m_Shader: {fileID: -6465566751694194690, guid: 4824bf19a845b794faa273786fc72834, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -64,17 +64,19 @@ Material:
     - _Noise_Scale: 30
     - _QueueControl: 0
     - _QueueOffset: 0
+    - _Reverse: 0
     - _Smoothness: 0.5
     - _Texture_Scale: 1
-    - _Threshold: 0.481
+    - _Threshold: 0.433
     m_Colors:
-    - _Base_Color: {r: 0.67295593, g: 0.67295593, b: 0.67295593, a: 0}
-    - _Edge_Color: {r: 1.7013307, g: 0, b: 2.9960785, a: 0}
+    - _Base_Color: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 0}
+    - _Edge_Color: {r: 2.27141, g: 0, b: 4, a: 0}
+    - _False_Threshold_Control: {r: 0.43, g: -1.32, b: 0, a: 0}
     - _Texture_Offset: {r: 1, g: 1, b: 0, a: 0}
-    - _Threshold_Control: {r: 0, g: 1, b: 0, a: 0}
     - _Tilling_Offset: {r: 1, g: 1, b: 0, a: 0}
+    - _True_Threshold_Control: {r: -0.31, g: 1.44, b: 0, a: 0}
   m_BuildTextureStacks: []
---- !u!114 &8089442373618687265
+--- !u!114 &1368718420546604105
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
