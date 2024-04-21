@@ -66,7 +66,7 @@ Material:
     - _QueueOffset: 0
     - _Smoothness: 0.5
     - _Texture_Scale: 1
-    - _Threshold: 0.326
+    - _Threshold: 0.293
     m_Colors:
     - _Base_Color: {r: 0.67295593, g: 0.67295593, b: 0.67295593, a: 0}
     - _Edge_Color: {r: 1.7013307, g: 0, b: 2.9960785, a: 0}
