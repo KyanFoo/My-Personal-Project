@@ -44,7 +44,7 @@ Smoothness node is used to controls the smoothness of the texture, enabling the 
 
 ----------------- Noise Controls -----------------
 Base Color (Color):
-Base Color node to change base color of the GameObject.
+Base Color node is used to change base color of the GameObject.
 
 Edge Color (Color):
 Edge Color node is used to change the glowing edge of the dissolved GameObject.
@@ -86,6 +86,7 @@ IsEmissionTexture node is used to check whether the GameObject has an "Emissive 
 Threshold Control (Vector2):
 Threshold Control node comprises of two values, "X and Y". Both are used to regulate the dissolve threshold of various game objects.This ensures that as the "Dissolve Threshold" shifts from "0 to 1," the game object fully dissolves.
 
+
 Reverse (Boolean):
 Reverse noode is used to check whether the GameObject's dissolve motion should occur in reverse, such as from up to down or left to right.
 A motion where the GameObject dissolve from up to down and revert back from down to up.
@@ -95,3 +96,5 @@ False Threshold Control node has similar function as "Threshold Control node". I
 
 True Threshold Control (Vector2):
 True Threshold Control node has similar function as "Threshold Control node". It comprises of two values, "X and Y", they regulate the dissolve threshold of the GameObject when the "Reverse Node" is check true. This ensures that as the "Dissolve Threshold" shifts from "0 to 1," the game object fully dissolves.
+
+

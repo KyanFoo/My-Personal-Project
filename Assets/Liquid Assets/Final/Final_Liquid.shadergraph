@@ -2382,7 +2382,7 @@
     "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.CategoryData",
     "m_ObjectId": "28ed7ca1d5a8452f88701918d6385603",
-    "m_Name": "Main",
+    "m_Name": " Main Controls",
     "m_ChildObjectList": [
         {
             "m_Id": "495a88c1273948e8baca3cb8e5ae94ca"
@@ -5663,7 +5663,7 @@
     "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.CategoryData",
     "m_ObjectId": "b4f3c03993784a218175973b3537654f",
-    "m_Name": "Foam",
+    "m_Name": "Foam Controls",
     "m_ChildObjectList": [
         {
             "m_Id": "211e12c888fc43419c5dcd04b5191b62"
@@ -7489,7 +7489,7 @@
     "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.CategoryData",
     "m_ObjectId": "fe1c826367d54a40afcda406595a6ab3",
-    "m_Name": "Rim",
+    "m_Name": "Rim Controls",
     "m_ChildObjectList": [
         {
             "m_Id": "9a35d11ed97a4bc0af6c71f522a9d63b"
