@@ -54,7 +54,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Fill_Amount: 0.5
+    - _Fill_Amount: 0
     - _Foam_Smoothness: 0
     - _Foam_Width: 0.04
     - _Fresnel_Power: 2
@@ -63,6 +63,7 @@ Material:
     - _WobbleX: 0
     - _WobbleZ: 0
     m_Colors:
+    - _Fill_Threshold_Control: {r: -1.4, g: 0.44, b: 0, a: 0}
     - _Foam_Color: {r: 0, g: 0.3962264, b: 0.3894708, a: 1}
     - _Fresnel_Color: {r: 1, g: 0.02352941, b: 0, a: 0}
     - _Liquid_Color: {r: 0, g: 0.0154697895, b: 1, a: 0}
